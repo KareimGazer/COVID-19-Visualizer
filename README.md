@@ -1,2 +1,2 @@
 # COVID-19-Visualizer
-A Dashboard for Visualizing COVID-19 Vaccination Data
+a dashboard for displaying the progress of vaccination in a specified country
