@@ -1,0 +1,10 @@
+Country,Date,People Vaccinated,People Fully Vaccinated,Percentage of People Vaccinated,Percentage of People Fully Vaccinated,Vaccines
+Albania,2021-01-10,0,0,0.00,0.00,Pfizer/BioNTech
+Albania,2021-01-11,0,0,0.00,0.00,Pfizer/BioNTech
+Albania,2021-01-12,128,0,0.00,0.00,Pfizer/BioNTech
+Albania,2021-01-13,188,0,0.01,0.00,Pfizer/BioNTech
+Albania,2021-01-14,266,0,0.01,0.00,Pfizer/BioNTech
+Albania,2021-01-15,308,0,0.01,0.00,Pfizer/BioNTech
+Albania,2021-01-16,369,0,0.01,0.00,Pfizer/BioNTech
+Albania,2021-01-17,405,0,0.01,0.00,Pfizer/BioNTech
+Albania,2021-01-18,447,0,0.02,0.00,Pfizer/BioNTech
